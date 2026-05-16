@@ -7,7 +7,7 @@ As I have not used MCU like ESP, code cannot open a USB port and so I recieved o
 
 The commands to run in linux terminal are as follows
 
-gcc serial_test.c -o serial_test #to compile the code
+gcc serial_test.c -o serial_test #to compile the code"/n"
 sudo ./serial_test #to run the code
 
 The result is as follows
