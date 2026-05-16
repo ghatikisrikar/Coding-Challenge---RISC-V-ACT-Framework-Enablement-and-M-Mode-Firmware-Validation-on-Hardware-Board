@@ -16,6 +16,6 @@ The result is as follows
 
 <img width="815" height="70" alt="Screenshot 2026-05-16 132330" src="https://github.com/user-attachments/assets/240654a9-ec71-4246-b27a-da41e300b2b4" />
 
-PS: I have also taken help of Stackoverflow, AI in making the code as I have only basic idea how this works.
+PS: I have taken help of Stackoverflow, AI in making the code as I have only basic idea how this works.
 
 Thank You for your time!!!
